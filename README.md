@@ -6,32 +6,32 @@
 
 Your ultimate anime streaming companion for Android. Watch your favorite anime anytime, anywhere with a beautiful native app experience.
 
-## ✨ What Makes AniKai Special
+**What Makes AniKai Special**
 
-### 🎬 Smart Watch Experience
-- **Auto-Resume**: Pick up exactly where you left off - remembers your timestamp for every episode
-- **Visual Progress Bars**: See at a glance which episodes you've watched with red progress indicators
-- **Time Remaining**: "12m left" badges show exactly how much time remains in each episode
-- **Seamless Binge**: Never lose your place again, even if you switch between shows
+**Smart Watch Experience**
+- Auto Resume: Start right where you stopped – your watch position is saved for each episode
+- Red Progress Bars: Check your viewing progress instantly using visual red progress bars
+- Time Left: "12m left" labels clearly display remaining time in each episode
+- Binge Viewing: No more disruptions; you won't have to stop in the middle of watching
 
-### 🔒 Built for Privacy & Security
-- **PIN Lock**: Secure your app with a 4-digit PIN - perfect for shared devices
-- **Ad-Free Browsing**: Built-in ad blocking keeps redirects and popups away
-- **No Tracking**: Your watch history stays on your device, not in the cloud
+**Built for Privacy & Security**
+- PIN Code Locking**: Protect your application with a 4-digit PIN code, ideal for shared devices.
+- Ad Blocker: Ad block technology blocks any kind of redirect or pop-up ads.
+- No Trackers: Your browsing history stays within your device; nothing is stored in the cloud.
 
-### 📱 Native Android Feel
-- **Bottom Navigation**: Quick access to Home, Bookmarks, Downloads, and Settings
-- **Hardware Back Button**: Navigate naturally with your device's back button
-- **Pull to Refresh**: Swipe down to reload content instantly
-- **Dark Theme**: Easy on the eyes with a consistent dark UI
+**Native Android Feel**
+• Bottom Navigation Bar: Instant access to Home, Bookmarks, Downloads, and Settings tabs
+• Device Back Button: Move back effortlessly using your device’s hardware button
+• Swipe Down to Refresh: Scroll down to refresh your browser
+• Dark Mode: Get relief for your eyes with Dark mode UI
 
-### 💾 Your Content, Your Way
-- **Bookmarks**: Save favorite anime for instant access
-- **Download Tracking**: Keep tabs on your downloaded episodes
-- **Settings Export**: Backup your preferences and data anytime
-- **Smart Cache**: Clear cache with one tap to free up space
+**Your Content, Your Way**
+• Bottom Navigation Bar: Instant access to Home, Bookmarks, Downloads, and Settings tabs
+• Device Back Button: Move back effortlessly using your device’s hardware button
+• Swipe Down to Refresh: Scroll down to refresh your browser
+• Dark Mode: Get relief for your eyes with Dark mode UI
 
-## 📸 Screenshots
+## Screenshots
 
 | Home | Bookmarks | Settings |
 |------|-----------|----------|
@@ -65,21 +65,21 @@ npm start
 npm run build:apk
 ```
 
-## 🛠️ Tech Stack
+**Tech Stack**
 
-Built with modern tools for a smooth experience:
-- **React Native + Expo** - Cross-platform power
-- **React Navigation** - Smooth screen transitions
-- **AsyncStorage** - Local data that stays private
-- **Expo Notifications** - Stay updated on new episodes
+Made with cutting-edge technology to provide a seamless user experience:
+- React Native & Expo - Performance without platform dependence
+- React Navigation - Page transition ease
+- AsyncStorage - Private storage
+- Expo Notifications - Notifier for new podcasts
 
-## 🔐 Permissions
+**Permissions**
 
-The app requests minimal permissions:
-- **Internet** - For streaming content
-- **Storage** - For managing downloads
-- **Notifications** - Optional episode alerts
-- **Wakelock** - Keep screen on while watching
+Permissions that the application needs at minimum:
+- Internet access – For media streaming
+- Storage access – For downloading
+- Notification access – Episode notifications (optional)
+- Wake lock access – For keeping the screen on while watching
 
 ## 🤝 Contributing
 
@@ -93,4 +93,4 @@ This is an unofficial community app. All anime content belongs to their respecti
 
 ---
 
-Made with ❤️ by anime fans, for anime fans
+Made by "sumtingwongshare" on Discord. You have full permission to do anything you want with this, even to post it on appstores.
