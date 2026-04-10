@@ -26,10 +26,10 @@ Your ultimate anime streaming companion for Android. Watch your favorite anime a
 • Dark Mode: Get relief for your eyes with Dark mode UI
 
 **Your Content, Your Way**
-• Bottom Navigation Bar: Instant access to Home, Bookmarks, Downloads, and Settings tabs
-• Device Back Button: Move back effortlessly using your device’s hardware button
-• Swipe Down to Refresh: Scroll down to refresh your browser
-• Dark Mode: Get relief for your eyes with Dark mode UI
+- Bookmarks: Bookmark anime that you love for easy access
+- Download Management: Track which episodes you've downloaded
+- Settings Backup: Export settings and data at any time
+- Efficient Cache: Remove cache with just one click
 
 # And 260+ other new features!
 
