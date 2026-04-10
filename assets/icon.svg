@@ -1,0 +1,6 @@
+<svg width="1024" height="1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="#0f0f0f"/>
+  <rect x="100" y="100" width="824" height="824" rx="180" fill="#1a1a1a"/>
+  <text x="512" y="580" font-family="Arial, sans-serif" font-size="300" font-weight="bold" text-anchor="middle" fill="#ff4757">A</text>
+  <path d="M 350 750 Q 512 820 674 750" stroke="#ff4757" stroke-width="20" fill="none"/>
+</svg>
