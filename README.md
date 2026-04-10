@@ -15,7 +15,7 @@ Your ultimate anime streaming companion for Android. Watch your favorite anime a
 - Binge Viewing: No more disruptions; you won't have to stop in the middle of watching
 
 **Built for Privacy & Security**
-- PIN Code Locking**: Protect your application with a 4-digit PIN code, ideal for shared devices.
+- PIN Code Locking: Protect your application with a 4-digit PIN code, ideal for shared devices.
 - Ad Blocker: Ad block technology blocks any kind of redirect or pop-up ads.
 - No Trackers: Your browsing history stays within your device; nothing is stored in the cloud.
 
@@ -30,6 +30,8 @@ Your ultimate anime streaming companion for Android. Watch your favorite anime a
 • Device Back Button: Move back effortlessly using your device’s hardware button
 • Swipe Down to Refresh: Scroll down to refresh your browser
 • Dark Mode: Get relief for your eyes with Dark mode UI
+
+# And 260+ other new features!
 
 ## Screenshots
 
