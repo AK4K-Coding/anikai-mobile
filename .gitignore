@@ -18,3 +18,8 @@ web-build/
 
 expo-env.d.ts
 # @end expo-cli
+
+# APK files (should only be in GitHub Releases, not source code)
+*.apk
+*.aab
+AniKai-*.apk
