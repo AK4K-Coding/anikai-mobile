@@ -20,10 +20,10 @@ Your ultimate anime streaming companion for Android. Watch your favorite anime a
 - No Trackers: Your browsing history stays within your device; nothing is stored in the cloud.
 
 **Native Android Feel**
-• Bottom Navigation Bar: Instant access to Home, Bookmarks, Downloads, and Settings tabs
-• Device Back Button: Move back effortlessly using your device’s hardware button
-• Swipe Down to Refresh: Scroll down to refresh your browser
-• Dark Mode: Get relief for your eyes with Dark mode UI
+- Bottom Navigation Bar: Instant access to Home, Bookmarks, Downloads, and Settings tabs
+- Device Back Button: Move back effortlessly using your device’s hardware button
+- Swipe Down to Refresh: Scroll down to refresh your browser
+- Dark Mode: Get relief for your eyes with Dark mode UI
 
 **Your Content, Your Way**
 - Bookmarks: Bookmark anime that you love for easy access
