@@ -6,8 +6,6 @@
 
 Your ultimate anime streaming companion for Android. Watch your favorite anime anytime, anywhere with a beautiful native app experience.
 
-![App Banner](assets/banner.png)
-
 ## ✨ What Makes AniKai Special
 
 ### 🎬 Smart Watch Experience
